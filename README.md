@@ -2,8 +2,6 @@
 
 #Desafio
 
-Em progresso
-
 
 1) Observe o trecho de código abaixo:
 
@@ -73,10 +71,27 @@ c) Explique como chegou no resultado.
 
 
 
+
 IMPORTANTE:
 
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
+------------
+
+**Minha Observação:
+**
+Utilizei a IDE Eclipse para resolver os exercícios, é possível visualizar todos via terminal.
+
+Basta ir no endereço
+
+EntrevistaRB\Exercicios\build\classes
+
+e executar o seguinte comando:
+
+java Main
+
+
+--------------
 
